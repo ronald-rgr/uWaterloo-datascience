@@ -1,0 +1,31 @@
+﻿"Selected population characteristics, Canada, provinces and territories" 1
+"Every 5 years"
+"Table: 17-10-0118-01 (formerly CANSIM 153-0037)"
+"Geography: Canada, Province or territory"
+
+"","Canada",,,,
+"Population characteristics","1986","1991","1996","2001","2006"
+"Total population","25,309,331","27,296,859","28,846,761","30,007,094","31,612,897"
+"Urban population 2","19,352,085","20,906,880","22,461,215","23,908,105","25,350,743"
+"Rural population 2","5,957,240","6,389,975","6,385,545","6,098,980","6,262,154"
+"Total population density","2.8","3.0","3.2","3.3","3.5"
+"Urban population as a share of total population 2","76.5","76.6","77.9","79.7","80.2"
+"Rural population as a share of total population 2","23.5","23.4","22.1","20.3","19.8"
+"Total private dwellings 3","8,991,672","10,018,267","10,819,904","12,548,588","13,576,855"
+"Urban private dwellings 2 3","7,104,866","7,888,901","8,605,786","9,754,694","10,635,869"
+"Rural private dwellings 2 3","1,886,806","2,129,366","2,214,118","2,793,894","2,940,986"
+"Private dwelling density 3","1.0","1.1","1.2","1.4","1.5"
+"Population per private dwelling 3","2.8","2.7","2.7","2.4","2.3"
+"Population per urban private dwelling 2 3","2.7","2.7","2.6","2.5","2.4"
+"Population per rural private dwelling 2 3","3.2","3.0","2.9","2.2","2.1"
+
+Symbol legend:
+
+Footnotes:
+1,"Sources: Statistics Canada, Census of Population, Environment Accounts and Statistics Division"
+2,"Urban areas are those continuously built-up areas having a population concentration of 1,000 or more and a population density of 400 or more per square kilometre based on the previous census; rural areas have concentrations or densities below these thresholds."
+3,Refers to a private dwelling in which a person or a group of persons is permanently residing. Also included are private dwellings whose usual residents are temporarily absent on census day.
+
+"How to cite: Statistics Canada. Table 17-10-0118-01 Selected population characteristics, Canada, provinces and territories"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710011801
+DOI: https://doi.org/10.25318/1710011801-eng
