@@ -1,0 +1,83 @@
+﻿"Housing indicators, by tenure including first-time homebuyer status" c 1 2 3
+"Every 2 years"
+"Table: 46-10-0036-01"
+"Geography: Canada, Province or territory, Census metropolitan area"
+
+"","Montréal, Quebec",,"Ottawa-Gatineau, Ontario/Quebec",,"Toronto, Ontario",,"Calgary, Alberta",,"Edmonton, Alberta",,"Vancouver, British Columbia",
+"","Owner who is a first-time homebuyer",,"Owner who is a first-time homebuyer",,"Owner who is a first-time homebuyer",,"Owner who is a first-time homebuyer",,"Owner who is a first-time homebuyer",,"Owner who is a first-time homebuyer",
+"","2018",,"2018",,"2018",,"2018",,"2018",,"2018",
+"Selected housing indicators","Number of households","Percentage of households","Number of households","Percentage of households","Number of households","Percentage of households","Number of households","Percentage of households","Number of households","Percentage of households","Number of households","Percentage of households"
+"","Number","Percent","Number","Percent","Number","Percent","Number","Percent","Number","Percent","Number","Percent"
+"Total, structural type of dwelling 5 6","150,300B","100.0","45,900B","100.0","208,800B","100.0","67,800B","100.0","67,800B","100.0","95,100B","100.0"
+"Single-detached house","57,200B","38.0","18,300C","40.0","55,100C","26.0","33,100B","49.0","32,800B","48.0","20,300C","21.0"
+"Semi-detached house","13,400D","8.9","4,400D","9.7","21,500D","10.3","4,700D","6.9","9,400D","13.8","1,400E","x"
+"Row house","11,700D","7.8","12,300C","27.0","17,900D","8.6","8,200C","12.1","7,300D","10.8","20,500C","22.0"
+"Apartment or flat in a duplex","10,300D","6.9","500E","x","3,300E","1.6","800E","1.2","0s","x","2,400E","2.5"
+"Apartment in a building that has five or more storeys","9,000E","6.0","3,200D","6.8","85,700B","41.0","4,300D","6.4","2,900E","4.3","16,700C","17.5"
+"Apartment in a building that has fewer than five storeys","41,000C","27.0","3,800D","8.4","14,100D","6.8","11,600C","17.0","8,500C","12.7","28,300C","30.0"
+"Other single-attached house","0s","x","0s","x","1,600E","0.8","0s","x","0s","x","600E","x"
+"Moveable dwelling 7","1,200E","x","600E","x","0s","x","0s","x","900E","x","0s","x"
+"Total, condominium status 8 9","150,300B","100.0","46,000B","100.0","208,800B","100.0","67,800B","100.0","67,800B","100.0","95,200B","100.0"
+"Condominium","49,100B","33.0","11,100C","24.0","107,600B","52.0","22,200B","33.0","16,700C","25.0","50,600B","53.0"
+"Not condominium","101,100B","67.0","35,000B","76.0","101,200B","48.0","45,600B","67.0","51,100B","75.0","44,600B","47.0"
+"Total, satisfaction with dwelling 10 11","150,200B","100.0","46,000B","100.0","208,700B","100.0","67,900B","100.0","67,700B","100.0","95,200B","100.0"
+"Very satisfied with dwelling","40,100C","27.0","14,200C","31.0","63,500C","30.0","16,900C","25.0","18,500C","27.0","23,100C","24.0"
+"Satisfied with dwelling","91,100B","61.0","26,400B","57.0","95,300B","46.0","34,400B","51.0","38,700B","57.0","48,300B","51.0"
+"Neither satisfied nor dissatisfied with dwelling","14,900D","9.9","4,300D","9.3","49,400C","24.0","10,600C","15.6","7,800D","11.4","18,000C","18.9"
+"Dissatisfied with dwelling","3,200E","2.1","1,300E","2.6","500E","x","6,000D","8.8","2,700E","4.1","4,800E","5.1"
+"Very dissatisfied with dwelling","900E","x","0s","x","0s","x","0s","x","0s","x","1,000E","x"
+"Total, satisfaction with neighbourhood 12 13 14","150,200B","100.0","46,000B","100.0","208,800B","100.0","67,800B","100.0","67,800B","100.0","95,200B","100.0"
+"Very satisfied with neighbourhood","70,600B","47.0","18,600B","40.0","57,500C","28.0","23,500B","35.0","27,500B","40.0","28,100C","30.0"
+"Satisfied with neighbourhood","67,200B","45.0","20,700B","45.0","111,800B","54.0","33,500B","49.0","29,200B","43.0","43,200B","45.0"
+"Neither satisfied nor dissatisfied with neighbourhood","11,400D","7.6","4,800D","10.5","31,700D","15.2","8,000D","11.9","8,200C","12.1","19,200C","20.0"
+"Dissatisfied with neighbourhood","0s","x","1,600E","3.7","5,100E","2.5","1,400E","2.0","2,200E","3.3","4,100E","4.3"
+"Very dissatisfied with neighbourhood","1,000E","x","300E","0.8","2,700E","x","1,400E","x","700E","x","600E","x"
+"Moved because the household was forced to move by a landlord, a bank or other financial institution or the government 15 16 17","1,100E","x","400E","x","10,800E","5.2","1,200E","1.8","1,400E","2.0","6,400E","6.7"
+"Moved due to a natural disaster or fire 15 16 17","0s","x","0s","x","0s","x","200E","x","600E","x","200E","x"
+"Moved for a new job or job transfer 15 16 17","7,000E","4.6","5,000D","10.9","15,500D","7.4","6,600D","9.8","8,000D","11.8","3,600E","3.8"
+"Moved for a new school 15 16 17","1,000E","x","600E","1.3","8,400E","4.0","2,100E","3.1","200E","x","2,200E","2.3"
+"Moved to form own household 15 16 17","36,200C","24.0","10,200C","22.0","46,000C","22.0","16,400C","24.0","17,500C","26.0","20,300C","21.0"
+"Moved to be closer to family 15 16 17","8,300E","5.5","4,000D","8.8","7,500E","3.6","4,400E","6.5","5,000E","7.3","2,400E","2.5"
+"Moved because of a change in household or family size 15 16 17","17,500D","11.7","5,800C","12.4","17,700D","8.4","10,200D","15.1","8,900C","13.1","13,700C","14.3"
+"Moved to reduce commuting time 15 16 17","12,200D","8.2","2,700D","5.8","15,900D","7.6","6,400D","9.4","4,600D","6.7","7,100E","7.5"
+"Moved to upgrade to a larger dwelling or better quality dwelling 15 16 17","53,900B","36.0","14,800C","32.0","48,000C","23.0","22,200C","33.0","17,400C","26.0","21,000C","22.0"
+"Moved to reduce housing costs 15 16 17","4,800E","3.2","2,400D","5.4","16,000E","7.7","3,900E","5.9","2,800E","4.1","5,000D","5.2"
+"Moved to be in a more desirable neighbourhood 15 16 17","30,800C","21.0","8,900C","19.3","27,800C","13.3","17,000C","25.0","12,600C","18.7","15,800C","16.6"
+"Moved for personal health reasons 15 16 17","0s","x","300E","0.7","3,300E","x","600E","x","3,100E","4.6","2,100E","2.1"
+"Moved to become a homeowner 15 16 17","111,400B","74.0","30,800B","67.0","141,000B","68.0","53,300B","78.0","48,900B","72.0","54,600B","57.0"
+"Moved for another reason 15 16 17","800E","x","300E","x","500E","x","300E","x","1,100E","x","800E","x"
+
+Symbol legend:
+0<sup class="QILetter">s</sup>,  value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded,
+x,  suppressed to meet the confidentiality requirements of the Statistics Act,
+E,  use with caution,
+B,  data quality: very good,
+C,  data quality: good,
+D,  data quality: acceptable,
+
+Corrections:
+Date:,Note:
+2020-05-22T04:00:00Z,"On May 22, 2020, estimates for Lethbridge, Calgary and Edmonton census metropolitan areas for 2018 were corrected ."
+
+Footnotes:
+1,Data for Northwest Territories comes from the 2019 NWT Community Survey.
+2,"Estimates for the number of households contained in this table have been assigned a letter value to indicate the quality of the estimate, as measured by the coefficient of variation (expressed as a percentage). A = excellent (0.00% to 5.00%), B = very good (5.01% to 15.00%), C = good (15.01% to 25.00%), D = acceptable (25.01% to 35.00%), E = use with caution (greater than 35.00%)."
+3,The estimate appearing in this table was subjected to rounding.
+4,"A first-time homebuyer refers to an individual who purchased a home in which to live within the five years preceding the reference date, and did not own a home before the purchase. Households are classified as first-time homebuyers if the purchaser and, where applicable, the cohabitating spouse at the time of the purchase are both first-time homebuyers."
+5,"""Structural type"" refers to the structural characteristics and/or configuration of the dwelling (whether the dwelling is a single-detached house, an apartment in a high-rise building, a row house, a mobile home, etcetera)."
+6,Includes households where the structural type is not known.
+7,"""Moveable dwelling"" includes mobile homes and other moveable dwellings such as houseboats and railroad cars."
+8,"""Condominium status"" refers to whether the private dwelling is part of a condominium development. A condominium is a residential complex in which dwellings are owned individually while land and common elements are held in joint ownership with others."
+9,Includes households where the condominium status is not known.
+10,"Satisfaction with dwelling are based on the information for the reference person. The reference person is the household member responsible for housing decisions. In cases where members share responsibility for housing decisions, one person is chosen to be the reference person."
+11,Includes households where the satisfaction with dwelling is not known.
+12,"For households in Northwest Territories, the neighbourhood satisfaction refers to the satisfaction with the community."
+13,Includes households where the satisfaction with neighbourhood is not known.
+14,"Satisfaction with neighbourhood is based on the information for the reference person. The reference person is the household member responsible for housing decisions. When household members share responsibility for housing decisions, one person is chosen to be the reference person."
+15,"Indicators related to reasons for moving and plans for moving are based on the information for the reference person. The reference person is the household member responsible for housing decisions. In cases where members share responsibility for housing decisions, one person is chosen to be the reference person."
+16,"In cases where multiple moves occur, the reason for moving is captured for the last move of the reference person. One or more reasons can be reported by the reference person."
+17,"For households in Northwest Territories, moving to reduce commute time or to be in a more desirable neighbourhood were not captured on the survey questionnaire."
+
+"How to cite: Statistics Canada. Table 46-10-0036-01 Housing indicators, by tenure including first-time homebuyer status"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610003601
+DOI:  https://doi.org/10.25318/4610003601-eng

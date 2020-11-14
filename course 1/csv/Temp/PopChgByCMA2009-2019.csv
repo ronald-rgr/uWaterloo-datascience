@@ -1,0 +1,31 @@
+﻿"Components of population change by census metropolitan area and census agglomeration, 2016 boundaries" 1 2 3 4 5
+"Annual"
+"Table: 17-10-0136-01"
+"Geography: Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+
+"","Both sexes",,,,,,,,,
+"","All ages",,,,,,,,,
+"","2009 / 2010","2010 / 2011","2011 / 2012","2012 / 2013","2013 / 2014","2014 / 2015","2015 / 2016","2016 / 2017","2017 / 2018","2018 / 2019"
+"Geography","Immigrants 7","Immigrants 7","Immigrants 7","Immigrants 7","Immigrants 7","Immigrants 7","Immigrants 7","Immigrants 7","Immigrants 7","Immigrants 7"
+"","Persons",,,,,,,,,
+"Montréal (CMA), Quebec","44,689","46,348","46,761","47,881","44,169","39,167","46,771","45,013","40,648","37,442"
+"Ottawa - Gatineau (CMA), Ontario/Quebec","8,349","8,308","7,953","8,084","7,355","6,037","9,044","7,872","9,543","11,139"
+"Toronto (CMA), Ontario","90,961","82,227","78,391","83,620","79,616","71,207","91,673","75,061","102,740","105,591"
+"Calgary (CMA), Alberta","14,917","15,112","16,024","17,677","18,543","18,543","24,859","18,886","17,425","18,528"
+"Edmonton (CMA), Alberta","9,758","10,447","11,574","12,746","14,982","14,085","21,467","16,773","14,645","15,556"
+"Vancouver (CMA), British Columbia","36,850","32,857","29,630","29,822","30,466","25,159","34,750","28,023","33,295","34,316"
+
+Symbol legend:
+
+Footnotes:
+1,Population estimates based on the Standard Geographical Classification (SGC) 2016 as delineated in the 2016 Census.
+2,"A census metropolitan area (CMA) or a census agglomeration (CA) is formed by one or more adjacent municipalities centred on a population centre (known as the core). A CMA must have a total population of at least 100,000 of which 50,000 or more must live in the core based on adjusted data from the previous Census of Population Program. A CA must have a core population of at least 10,000 also based on data from the previous Census of Population Program. To be included in the CMA or CA, other adjacent municipalities must have a high degree of integration with the core, as measured by commuting flows derived from data on place of work from the previous Census Program. If the population of the core of a CA falls below 10,000, the CA is retired from the next census. However, once an area becomes a CMA, it is retained as a CMA even if its total population declines below 100,000 or the population of its core falls below 50,000. All areas inside the CMA or CA that are not population centres are rural areas.  When a CA has a core of at least 50,000, based on data from the previous Census of Population, it is subdivided into census tracts. Census tracts are maintained for the CA even if the population of the core subsequently falls below 50,000. All CMAs are subdivided into census tracts (2016 Census Dictionary, catalogue number 98-301-X2016001)."
+3,An area outside census metropolitan areas and census agglomerations is made up of all areas (within a province or territory) unallocated to a census metropolitan area (CMA) or census agglomeration (CA).
+4,"The population growth, which is used to calculate population estimates of census metropolitan areas and census agglomerations (table 17100135), is comprised of the components of population growth (table 17100136)."
+5,This table replaces table 17100079.
+6,Age on July 1.
+7,The estimates for immigrants are preliminary for 2018/2019 and final up to 2017/2018.
+
+"How to cite: Statistics Canada. Table 17-10-0136-01 Components of population change by census metropolitan area and census agglomeration, 2016 boundaries"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710013601
+DOI: https://doi.org/10.25318/1710013601-eng
